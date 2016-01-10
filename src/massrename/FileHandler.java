@@ -54,6 +54,7 @@ public class FileHandler {
      * @return 
      */
     private static boolean executeMassRenaming(File file, String newName){
+        boolean success=RenameFile(file, newName);
         if (file.isDirectory()) {
             File[] fileArray = file.listFiles();
             if (fileArray != null) {
@@ -64,7 +65,7 @@ public class FileHandler {
                 }                            
             }
         }
-        return RenameFile(file, newName);
+        return success;
     }
     
     /**
