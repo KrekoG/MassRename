@@ -9,7 +9,7 @@ You will need:
 
 1. A terminal/command line
 2. [java runtime environment](https://www.java.com/en/download/ "Download the freshest!") - which you more than likely already have. To check, you can follow the link to the download site, then click `Do I have Java?` under the download button.
-3. The [MassReadme.jar](https://github.com/KrekoG/MassRename/releases/tag/1.0.0 "version 1.0.0 Alder") itself
+3. The [MassReadme.jar](https://github.com/KrekoG/MassRename/releases/tag/v1.0.1 "version v1.0.1 Ash") itself
 
 ##Using MassRename
 
